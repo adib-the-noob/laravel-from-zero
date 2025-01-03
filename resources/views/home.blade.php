@@ -1,5 +1,8 @@
 <x-layout>
+    <x-slot:heading>
+        Home
+    </x-slot:heading>
     <p>
-        hakk
+        Home page.
     </p>
 </x-layout>
